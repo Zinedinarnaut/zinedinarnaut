@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinedinarnaut&theme=prussian&show_icons=true)
 
-https://img.shields.io/amo/users/Zinedinarnaut
+image:https://img.shields.io/amo/users/Zinedinarnaut[Mozilla Add-on]
 
 Here are some ideas to get you started:
 
