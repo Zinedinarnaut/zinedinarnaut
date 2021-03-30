@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinedinarnaut)](https://github.com/zinedinarnaut/dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinedinarnaut&theme=prussian &show_icons=true)
 
 Here are some ideas to get you started:
 
