@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinedinarnaut&theme=prussian&show_icons=true)
 
-image:https://img.shields.io/amo/users/Zinedinarnaut[Mozilla Add-on]
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/users/Zinedinarnaut">
 
 Here are some ideas to get you started:
 
