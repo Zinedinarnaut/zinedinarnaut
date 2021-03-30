@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+bash css3 docker electron express git html5 illustrator java javascript jenkins linux mongodb mysql nextjs nginx nodejs photoshop postman puppeteer python sqlite vuejs xd
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinedinarnaut&theme=prussian&show_icons=true)
 
 ![Mozilla Add-on](https://img.shields.io/amo/users/Zinedinarnaut?label=users&style=flat-square)
