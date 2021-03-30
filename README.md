@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://img.shields.io/amo/users/zinedinarnaut
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinedinarnaut&theme=prussian&show_icons=true)
 
 Here are some ideas to get you started:
