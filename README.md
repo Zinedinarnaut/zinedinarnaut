@@ -15,4 +15,4 @@ Information about me:
 - 💬 Ask me about Coding or anything
 - 📫 How to reach me: z_t0ht#9881
 
-Join NexusNodes[(https://discord.gg/CW9XmVRD4P)]
+Join (NexusNodes)(https://discord.gg/CW9XmVRD4P)
