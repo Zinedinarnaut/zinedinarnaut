@@ -11,7 +11,7 @@ Information about me:
 - 🔭 I’m currently working on Lynx and cryptoware
 - 🌱 I’m currently learning Typescript, javascript and more!!
 - 👯 I’m looking to collaborate on CryptoWare
-- 🤔 I’m looking for help with Typescript and VUE
+- 🤔 I’m looking for help with javascript and react/express
 - 💬 Ask me about Coding or anything
 - 📫 How to reach me: z_t0ht#9881
 
