@@ -8,11 +8,8 @@
 
 Information about me:
 
-- 🔭 I’m currently working on Lynx and cryptoware
-- 🌱 I’m currently learning Typescript, javascript and more!!
-- 👯 I’m looking to collaborate on CryptoWare
+- 🔭 I’m currently working on a project called dashbot
+- 🌱 I’m currently learning javascript and more
 - 🤔 I’m looking for help with javascript and react/express
 - 💬 Ask me about Coding or anything
-- 📫 How to reach me: z_t0ht#9881
-
-Join (NexusNodes)(https://discord.gg/CW9XmVRD4P)
+- 📫 How to reach me: z_t0ht#0001
