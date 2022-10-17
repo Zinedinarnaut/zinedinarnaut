@@ -1,4 +1,4 @@
-<h1 align="center">I'm ZinedinArnaut</h1>
+<h1 align="center">I'm Zinedin Arnaut</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zinedinarnaut&=flat" alt="zinedinarnaut"/</p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -8,8 +8,7 @@
 
 Information about me:
 
-- 🔭 I’m currently working on a project called dashbot
-- 🌱 I’m currently learning javascript and more
-- 🤔 I’m looking for help with javascript and react/express
+- 🔭 I’m currently working on a project called Lunar Hub
+- 🌱 I’m currently learning lua
 - 💬 Ask me about Coding or anything
-- 📫 How to reach me: z_t0ht#0001
+- 📫 How to reach me: z_t0ht#5254
