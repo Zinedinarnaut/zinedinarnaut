@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1044544816412905512/1123599755570843658/Group_15.png" alt="banner">
+<img src="" alt="banner">
 
 <div align="center">
     <h2 align="left">About Me</h2>
