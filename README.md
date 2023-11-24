@@ -1,4 +1,4 @@
-<img src="/Component 1.png" alt="banner">
+<img src="/b6334182-NDJcGFgQMae3.jpg" alt="banner">
 
 <div align="center">
     <h2 align="left">About Me</h2>
