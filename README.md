@@ -8,8 +8,8 @@
 	<p align="left">Hey there! The name's Araxyso, nice to meet you!.<br>As a self-taught developer, I indulge my curiosity by embarking on diverse projects, from captivating games to innovative concepts that spark my imagination..</p>
 	<ul align="left">
 		<li><b>Age: </b>Unkn0wn</li>
-		<li><b>Hobbies: </b>Programming, Gaming</li>
-		<li><b>Favourite Games: </b>Minecraft, Valorant, GTAV!, and Honkai: Star rail</li>
+		<li><b>Hobbies: </b>Programming, Gaming, cleaning</li>
+		<li><b>Favourite Games: </b>Minecraft, Valorant, GTAV!, and satisfactory</li>
 		<li><b>Favourite movies: </b>Real Steel, Pacific Rim, Fnaf, and SCP Overlord</li>
 </div>
 <br>
