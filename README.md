@@ -10,7 +10,7 @@
 		<li><b>Age: </b>Unkn0wn</li>
 		<li><b>Hobbies: </b>Programming, Gaming</li>
 		<li><b>Favourite Games: </b>Minecraft, Valorant, GTAV!, and Honkai: Star rail</li>
-		<li><b>Favourite Anime Genres: </b>Magic, Isekai, Psychological, and mecha</li>
+		<li><b>Favourite movies: </b>Real Steel, Pacific Rim, Fnaf, and SCP Overlord</li>
 </div>
 <br>
 <div align="center">
