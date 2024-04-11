@@ -9,7 +9,7 @@
 	<ul align="left">
 		<li><b>Age: </b>Unkn0wn</li>
 		<li><b>Hobbies: </b>Programming, Gaming, cleaning</li>
-		<li><b>Favourite Games: </b>Minecraft, Valorant, GTAV!, and satisfactory</li>
+		<li><b>Favourite Games: </b>Minecraft, Helldivers 2, GTAV!, and satisfactory</li>
 		<li><b>Favourite movies: </b>Real Steel, Pacific Rim, Fnaf, and SCP Overlord</li>
 </div>
 <br>
