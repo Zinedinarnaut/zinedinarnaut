@@ -8,9 +8,8 @@
 	<p align="left">Hey there! The name's Araxyso, nice to meet you!.<br>As a self-taught developer, I indulge my curiosity by embarking on diverse projects, from captivating games to innovative concepts that spark my imagination..</p>
 	<ul align="left">
 		<li><b>Age: </b>17</li>
-		<li><b>Hobbies: </b>Programming, Gaming, cleaning</li>
-		<li><b>Favourite Games: </b>Minecraft, Helldivers 2, GTAV!, and satisfactory</li>
-		<li><b>Favourite movies: </b>Real Steel, Pacific Rim, Fnaf, and SCP Overlord</li>
+		<li><b>Hobbies: </b>Programming, Gaming, Socialising</li>
+		<li><b>interest: </b>Reverse Engineering, Web Development and Software engineering stuff</li>
 </div>
 <br>
 <div align="center">
