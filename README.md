@@ -7,11 +7,11 @@
 	-->
 	<p align="left">Hey there! The name's Araxyso, nice to meet you!.<br>As a self-taught developer, I indulge my curiosity by embarking on diverse projects, from captivating games to innovative concepts that spark my imagination..</p>
 	<ul align="left">
-		<li><b>Age: </b>17</li>
+		<li><b>Age: </b>18</li>
 		<li><b>Hobbies: </b>Programming, Gaming, Socialising</li>
 		<li><b>interest: </b>Reverse Engineering, Web Development and Software engineering stuff</li>
 </div>
 <br>
 <div align="center">
-	<p><a href="https://araxyso.xyz">Website</a></p>
+	<p>🌐 <a href="https://araxyso.nanod.cloud">Website</a></p>
 </div>
