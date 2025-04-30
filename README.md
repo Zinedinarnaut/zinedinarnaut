@@ -25,7 +25,7 @@ I specialize in:
 
 ### 🚀 Highlight Projects
 
-#### [🧠 Project Alya (Showcase)](https://github.com/zinedinarnaut/project-alya-showcase)
+#### [🧠 Project Alya (Closed Source)]()
 > A closed-source local AI assistant with real-time voice, personality switching, memory systems, mood drift, and Twitch/VC integration.
 - FastAPI backend with modular LLM, TTS, STT, and memory logic
 - Coqui + Whisper + DeepSeek V3 locally run — no APIs
