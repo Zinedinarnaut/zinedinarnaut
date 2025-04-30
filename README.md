@@ -47,7 +47,8 @@ I’m currently open to **freelance work** in:
 - 🖥️ Full-stack websites (Next.js, Tailwind, CMS integration)
 - 🧠 Self-hosted AI pipelines (DeepSeek, Coqui, FastAPI, ChromaDB)
 
-📬 Contact: **zinedinarnaut085@gmail.com**
+📬 Contact:
+- Discord: araxyso
 
 ---
 
