@@ -63,7 +63,7 @@ I’m currently open to **freelance work** in:
 | 🎯 My Vision
 
 I’m not here to build basic apps —
-I’m here to create living, breathing, humanlike AI systems
+I’m here to create living, breathing, human like AI systems
 that can speak, react, evolve, and entertain.
 
 Thanks for stopping by! If you’re building something wild — or want to — I’m down to help.
