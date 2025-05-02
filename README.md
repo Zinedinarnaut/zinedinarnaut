@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-I'm an 18-year-old developer based in Sydney, Australia, building bleeding-edge tech from scratch — from **AI-powered VTuber systems** to **reverse-engineered game tools** and **custom server infrastructure**.
+I'm an 18-year-old developer based in Sydney, Australia, building bleeding edge tech from scratch from **AI-powered VTuber systems** to **reverse-engineered game tools** and **custom server infrastructure**.
 
 I specialize in:
 - 🤖 AI Systems – LLMs (DeepSeek, GPT), local TTS (Coqui), STT (Whisper)
