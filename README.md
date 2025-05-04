@@ -1,6 +1,6 @@
 <img src="/b6334182-NDJcGFgQMae3.jpg" alt="banner">
 
-<h1 align="center">👋 Hey, I'm Zinedin Arnaut</h1>
+<h1 align="center">👋 Hey, I'm Araxyso</h1>
 <p align="center">
   Full-stack developer, AI systems engineer, and creator of <strong>Project Alya</strong>.
   <br />
@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-I'm an 18-year-old developer based in Sydney, Australia, building bleeding edge tech from scratch from **AI-powered VTuber systems** to **reverse-engineered game tools** and **custom server infrastructure**.
+I'm an 18-year old developer based in Sydney, Australia, building bleeding edge tech from scratch from **AI powered VTuber systems** to **reverse engineered game tools** and **custom server infrastructure**.
 
 I specialize in:
 - 🤖 AI Systems – LLMs (DeepSeek, GPT), local TTS (Coqui), STT (Whisper)
@@ -67,4 +67,4 @@ I’m not here to build basic apps —
 I’m here to create living, breathing, human like AI systems
 that can speak, react, evolve, and entertain.
 
-Thanks for stopping by! If you’re building something wild — or want to — I’m down to help.
+Thanks for stopping by! If you’re building something wild or want to I’m down to help.
