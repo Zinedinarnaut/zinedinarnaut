@@ -1,7 +1,4 @@
-<video autoplay loop muted playsinline width="600" height="400" controls>
-  <source src="/60fps_1.mp4" type="video/mp4">
-  Your browser does not support the video tag. <a href="/60fps_1.mp4">Click here to view the video</a>.
-</video>
+<img src="/b6334182-NDJcGFgQMae3.jpg" alt="banner">
 
 <h1 align="center">👋 Hey, I'm Araxyso</h1>
 <p align="center">
