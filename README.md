@@ -1,4 +1,4 @@
-<img src="/b6334182-NDJcGFgQMae3.jpg" alt="banner">
+<img src="https://cdn.discordapp.com/attachments/1366374297202982963/1372703610236043408/60fps_1.mp4?ex=6828661c&is=6827149c&hm=fc88d48d2f5614dc61ee8e0c63a6aa074ff141e189ba474402e4fb64618a0fda&" alt="banner">
 
 <h1 align="center">👋 Hey, I'm Araxyso</h1>
 <p align="center">
