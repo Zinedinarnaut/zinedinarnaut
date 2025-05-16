@@ -1,5 +1,5 @@
 <video autoplay loop muted playsinline width="600" height="400">
-  <source src="https://aemsw9kvl8bsry33.public.blob.vercel-storage.com/60fps_1-NmL11pNxEAyvn3oQnkhBbrOx8uboHc.mp4" type="video/mp4">
+  <source src="/60fps_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
