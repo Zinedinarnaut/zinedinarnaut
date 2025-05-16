@@ -1,4 +1,7 @@
-<img src="https://aemsw9kvl8bsry33.public.blob.vercel-storage.com/60fps_1-EvLn1anoSnhOn3iSjFGKZHJr2qbaRp.gif" alt="banner">
+<video autoplay loop muted playsinline width="600" height="400">
+  <source src="https://aemsw9kvl8bsry33.public.blob.vercel-storage.com/60fps_1-NmL11pNxEAyvn3oQnkhBbrOx8uboHc.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h1 align="center">👋 Hey, I'm Araxyso</h1>
 <p align="center">
