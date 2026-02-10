@@ -1,16 +1,24 @@
 <img src="/b6334182-NDJcGFgQMae3.jpg" alt="banner">
 
-<h1 align="center">👋 Hey, I'm Araxyso</h1>
+<h1 align="center">Hey, I'm Araxyso</h1>
 <p align="center">
-  Full-stack developer, AI systems engineer.
-  <br />
-  Pushing boundaries with local LLMs, real-time AI, and creative tech solutions.
+  Full-stack developer & systems builder<br />
+  Building scalable platforms, automation, and AI-assisted systems
 </p>
 
 ---
 
-### 🧠 About Me
+### About
 
-I'm an 18-year old developer based in Sydney, Australia, building bleeding edge tech from scratch from **AI powered systems** to **reverse engineered game tools** and **custom server infrastructure**.
+I’m a Sydney-based developer focused on designing and building **production-ready systems** — not just demos.
 
-Thanks for stopping by! If you’re building something wild or want to I’m down to help.
+I currently build through **Nanite**, an independent systems-focused studio where I design, ship, and maintain:
+- Full-stack platforms (auth, billing, dashboards, internal tools)
+- AI-assisted workflows and automation
+- Custom infrastructure and self-hosted services
+- Experimental tooling and game-adjacent tech
+
+I care deeply about **clarity, reliability, and long-term maintainability**.  
+Tools evolve quickly — standards don’t.
+
+If you’re building something serious and need it done properly, feel free to reach out.
